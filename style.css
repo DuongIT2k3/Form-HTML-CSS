@@ -5,14 +5,15 @@
 }
 html{
     font-size: 14px;
-    font-family: Helvetica, serif;
+    font-family: "Mulish", sans-serif;
+    color: #111;
 }
 body{
     background: #eee;
 }
 h1{
     text-align: center;
-    margin: 5%;
+    margin: 24px;
 }
 .loginForm{
     width: 320px;
@@ -40,6 +41,7 @@ label{
 }
 a{
     text-decoration: none;
+    color:#007aff;
 }
 
 .btn{
